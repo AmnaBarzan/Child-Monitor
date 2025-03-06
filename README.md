@@ -52,5 +52,5 @@ This dashboard provides valuable insights into childhood poverty, food security,
 [Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjEyZThjNTktNGQ4Zi00NjJmLWEyMDMtZmY2YzhmZWE0NDE3IiwidCI6ImU3NGM1ZjYxLTNhYzMtNDRmNi1iMzhhLWJjMDIyODYwNDc5NSIsImMiOjEwfQ%3D%3D)
 
 ## Dashboard Preview
-![Dashboard Screenshot](https://drive.google.com/file/d/1O2dd3Qd7KYYbUydTDj8xoBWWIv61R48t/view?usp=sharing)
+![Dashboard Screenshot](https://drive.google.com/drive/folders/1FguGJu6kX27XxmA_P2IzQoYuskR-Nu8g)
 
