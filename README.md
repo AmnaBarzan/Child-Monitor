@@ -14,9 +14,10 @@ This project seeks to leverage **Power BI** to analyze child poverty data from t
 | Tool/Technology | Description |
 |---------------|-------------|
 | ![Azure](https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg) **Microsoft Azure** | Database storage |
-| ![SQL Server](https://upload.wikimedia.org/wikipedia/en/8/8c/Microsoft_SQL_Server_Logo.svg) **SQL Server** | Data processing & transformation |
+| ![SQL Server](https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo.png) **SQL Server** | Data processing & transformation |
 | ![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg) **Power BI** | Visualization & reporting |
 | ![Microsoft Fabric](https://upload.wikimedia.org/wikipedia/commons/1/1b/Microsoft_Fabric_Logo.svg) **Microsoft Fabric** | Paginated reports |
+| ![Power BI Report Builder](https://upload.wikimedia.org/wikipedia/commons/e/e9/Power_BI_Report_Builder_Logo.png) **Power BI Report Builder** | Creating paginated reports |
 
 ## Data Preparation
 1. **Data Acquisition**: Connected Microsoft Azure to SQL Server and uploaded the *Young Lives* dataset.
@@ -48,6 +49,15 @@ This project seeks to leverage **Power BI** to analyze child poverty data from t
 ### **5. Health & Cognitive Development**
 - **PPVT (Peabody Picture Vocabulary Test) scores** were used to assess cognitive development.
 - Good health positively correlated with higher cognitive scores.
+
+## Paginated Reports
+The project includes **paginated reports** built using **Power BI Report Builder**, allowing for highly detailed, printable reports. These reports provide in-depth analysis on:
+- Food security and malnutrition trends by demographic groups.
+- Educational attainment and literacy distribution.
+- Health and cognitive development assessments.
+- Socioeconomic status and wealth index comparisons.
+
+Paginated reports complement the interactive dashboard by offering structured, print-ready documents for stakeholders and policymakers.
 
 ## Conclusion
 This dashboard provides valuable insights into childhood poverty, food security, education, health, and wealth disparities in Ethiopia and India. By transforming data into an interactive visual format, stakeholders can derive meaningful conclusions and drive policy changes to improve child well-being.
