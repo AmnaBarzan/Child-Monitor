@@ -13,11 +13,11 @@ This project seeks to leverage **Power BI** to analyze child poverty data from t
 ## Tools & Technologies Used
 | Tool/Technology | Description |
 |---------------|-------------|
-| ![Azure](https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg) **Microsoft Azure** | Database storage |
-| ![SQL Server](https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo.png) **SQL Server** | Data processing & transformation |
-| ![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg) **Power BI** | Visualization & reporting |
-| ![Microsoft Fabric](https://upload.wikimedia.org/wikipedia/commons/1/1b/Microsoft_Fabric_Logo.svg) **Microsoft Fabric** | Paginated reports |
-| ![Power BI Report Builder](https://upload.wikimedia.org/wikipedia/commons/e/e9/Power_BI_Report_Builder_Logo.png) **Power BI Report Builder** | Creating paginated reports |
+|  **Microsoft Azure** | Database storage |
+|  **SQL Server** | Data processing & transformation |
+|  **Power BI** | Visualization & reporting |
+|  **Microsoft Fabric** | Paginated reports |
+|  **Power BI Report Builder** | Creating paginated reports |
 
 ## Data Preparation
 1. **Data Acquisition**: Connected Microsoft Azure to SQL Server and uploaded the *Young Lives* dataset.
