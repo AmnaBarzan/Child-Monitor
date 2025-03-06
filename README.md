@@ -1,11 +1,5 @@
 # Child Well-Being Monitor - Power BI Dashboard
 
-## Power BI Dashboard
-[Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjEyZThjNTktNGQ4Zi00NjJmLWEyMDMtZmY2YzhmZWE0NDE3IiwidCI6ImU3NGM1ZjYxLTNhYzMtNDRmNi1iMzhhLWJjMDIyODYwNDc5NSIsImMiOjEwfQ%3D%3D)
-
-## Dashboard Preview
-![Dashboard Screenshot](https://drive.google.com/file/d/1O2dd3Qd7KYYbUydTDj8xoBWWIv61R48t/view?usp=sharing)
-
 ## Overview
 The **Child Well-Being Monitor** dashboard provides a data-driven insight into childhood poverty in Ethiopia and India. By analyzing various indicators, this project aims to support informed decision-making for child welfare interventions and policy development.
 
@@ -53,3 +47,10 @@ This project seeks to leverage **Power BI** to analyze child poverty data from t
 
 ## Conclusion
 This dashboard provides valuable insights into childhood poverty, food security, education, health, and wealth disparities in Ethiopia and India. By transforming data into an interactive visual format, stakeholders can derive meaningful conclusions and drive policy changes to improve child well-being.
+
+## Power BI Dashboard
+[Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjEyZThjNTktNGQ4Zi00NjJmLWEyMDMtZmY2YzhmZWE0NDE3IiwidCI6ImU3NGM1ZjYxLTNhYzMtNDRmNi1iMzhhLWJjMDIyODYwNDc5NSIsImMiOjEwfQ%3D%3D)
+
+## Dashboard Preview
+![Dashboard Screenshot](https://drive.google.com/file/d/1O2dd3Qd7KYYbUydTDj8xoBWWIv61R48t/view?usp=sharing)
+
