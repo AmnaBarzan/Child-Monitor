@@ -6,7 +6,8 @@ The **Child Well-Being Monitor** dashboard provides a data-driven insight into c
 ## Dashboard Preview
 ![Dashboard Screenshot](https://drive.google.com/uc?export=view&id=1O2dd3Qd7KYYbUydTDj8xoBWWIv61R48t)
 [Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjEyZThjNTktNGQ4Zi00NjJmLWEyMDMtZmY2YzhmZWE0NDE3IiwidCI6ImU3NGM1ZjYxLTNhYzMtNDRmNi1iMzhhLWJjMDIyODYwNDc5NSIsImMiOjEwfQ%3D%3D) 
-(https://app.fabric.microsoft.com/groups/me/reports/f78b4c6f-bd9f-43f2-ac31-582ceb1dc587/7b433ec8f53718fb895b?experience=fabric-developer)
+OR
+[Check here](https://app.fabric.microsoft.com/groups/me/reports/f78b4c6f-bd9f-43f2-ac31-582ceb1dc587/7b433ec8f53718fb895b?experience=fabric-developer)
 
 ## Objective
 This project seeks to leverage **Power BI** to analyze child poverty data from the *Young Lives* study. The study, spanning over 15 years, follows children’s lives across various dimensions—nutrition, education, and well-being. Our dashboard transforms this extensive dataset into actionable insights to help stakeholders better understand child development and poverty trends.
